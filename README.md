@@ -1,12 +1,40 @@
-This repository contains my work on the assignments and labs from the [TensorFlow Advanced Techniques Specialization][TATS] offered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera.
+This repository contains my work on the assignments and labs from the [ DeepLearning.AI TensorFlow Developer Professional Certificate][COURSERA_1] and [TensorFlow Advanced Techniques Specialization][COURSERA_2] offered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera.
 
 ## About this Specialization
 
-## 1 [Specialization 1:]
+## [Specialization 1: DeepLearning.AI TensorFlow Developer Professional Certificate][SPECIALIZATION1]
 
-## 2 [Specialization 2:]
+### [Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C1)
 
-## Programming Assignments
+- [W1](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C1/W1)
+- [W2](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C1/W2)
+- [W3](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C1/W3)
+- [W4](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C1/W4)
+
+### [Course 2: Convolutional Neural Networks in TensorFlow](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C2)
+
+- [W1](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C2/W1)
+- [W2](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C2/W2)
+- [W3](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C2/W3)
+- [W4](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C2/W4)
+
+### [Course 3: Natural Language Processing in TensorFlow](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C3)
+
+- [W1](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C3/W1)
+- [W2](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C3/W2)
+- [W3](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C3/W3)
+- [W4](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C3/W4)
+
+### [Course 4: Sequences, Time Series and Prediction](https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai/C4)
+
+- [W1]
+- [W2]
+- [W3]
+- [W4]
+
+              `Specialization 1 END`
+
+## [Specialization 2: TensorFlow: Advanced Techniques Specialization][SPECIALIZATION2]
 
 ### [Course 1: Custom Models, Layers, and Loss Functions with TensorFlow][C1]
 
@@ -48,24 +76,7 @@ Explore generative deep learning and how AI can create new content, from style t
 
 [Coursera TensorFlow Advanced Techniques Specialization][TATS]
 
-[TATS]: https://www.coursera.org/specializations/tensorflow-advanced-techniques?
-[C1]: https://github.com/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C1-Custom-Models-Layers-and-Loss-Functions-with-TensorFlow
-[C2]: https://github.com/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C2-Custom-and-Distributed-Training-with-TensorFlow
-[C3]: https://github.com/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C3-Advanced-Computer-Vision-with-TensorFlow
-[C4]: https://github.com/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C4-Generative-Deep-Learning-with-TensorFlow
-[C1W1A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C1-Custom-Models-Layers-and-Loss-Functions-with-TensorFlow/W1-Functional-APIs/C1W1_Assignment.ipynb
-[C1W2A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C1-Custom-Models-Layers-and-Loss-Functions-with-TensorFlow/W2-Custom-Loss-Functions/C1W2_Assignment.ipynb
-[C1W3A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C1-Custom-Models-Layers-and-Loss-Functions-with-TensorFlow/W3-Custom-Layers/C1W3_Assignment.ipynb
-[C1W4A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C1-Custom-Models-Layers-and-Loss-Functions-with-TensorFlow/W4-Custom-Models/C1W4_Assignment.ipynb
-[C2W1A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C2-Custom-and-Distributed-Training-with-TensorFlow/W1-Differentiation-and-Gradients/C2W1_Assignment.ipynb
-[C2W2A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C2-Custom-and-Distributed-Training-with-TensorFlow/W2-Custom-Training/C2W2_Assignment.ipynb
-[C2W3A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C2-Custom-and-Distributed-Training-with-TensorFlow/W3-Graph-Mode/C2W3_Assignment.ipynb
-[C2W4A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C2-Custom-and-Distributed-Training-with-TensorFlow/W4-Distributed-Training/C2W4_Assignment.ipynb
-[C3W1A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C3-Advanced-Computer-Vision-with-TensorFlow/W1-Introduction-to-Computer-Vision/C3W1_Assignment.ipynb
-[C3W2A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C3-Advanced-Computer-Vision-with-TensorFlow/W2-Object-Detection/C3W2_Assignment.ipynb
-[C3W3A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C3-Advanced-Computer-Vision-with-TensorFlow/W3-Image-Segmentation/C3W3_Assignment.ipynb
-[C3W4A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C3-Advanced-Computer-Vision-with-TensorFlow/W4-Visualization-and-Interpretability/C3W4_Assignment.ipynb
-[C4W1A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C4-Generative-Deep-Learning-with-TensorFlow/W1-Style-Transfer/C4W1_Assignment.ipynb
-[C4W2A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C4-Generative-Deep-Learning-with-TensorFlow/W2-AutoEncoders/C4W2_Assignment.ipynb
-[C4W3A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C4-Generative-Deep-Learning-with-TensorFlow/W3-Variational-AutoEncoders/C4W3_Assignment.ipynb
-[C4W4A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C4-Generative-Deep-Learning-with-TensorFlow/W4-GANs/C4W4_Assignment.ipynb
+[COURSERA_2]: https://www.coursera.org/specializations/tensorflow-advanced-techniques?
+[COURSERA_1]: https://www.coursera.org/programs/dlsei-phase-2b-iigii/professional-certificates/tensorflow-in-practice
+[SPECIALIZATION1]: https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_advance_specialization_dlai
+[SPECIALIZATION2]: https://github.com/Muhammad-Shah/tensorflow-advance-techniques-and-projects-specializtions/tree/master/tf_developer_specialization_dlai
