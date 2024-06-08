@@ -1,4 +1,4 @@
-1
+12
 This repository contains my work on the assignments and labs from the [ DeepLearning.AI TensorFlow Developer Professional Certificate][COURSERA_1] and [TensorFlow Advanced Techniques Specialization][COURSERA_2] offered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera.
 
 ## About this Specialization
